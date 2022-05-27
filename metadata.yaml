@@ -1,5 +1,8 @@
 _repo: Nick-Carter-Stories-No-154-August-21-1915-The-Mask-Of-Death-or-Nick-Carters-Curious-Case_68140
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68140-h/images/cover.jpg
 creator:
   author:
     agent_name: Carter, Nicholas (House name)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '54574'
     url: http://www.gutenberg.org/2009/agents/54574
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68140#Nick-Carter-Stories-No-154-August-21-1915-The-Mask-Of-Death-or-Nick-Carters-Curious-Case
 gutenberg_issued: '2022-05-21'
 identifiers:
   gutenberg: '68140'
